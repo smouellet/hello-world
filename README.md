@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Currently working on a new ebook, 'Tales of a Backpacking Knitter' to be released end of March at www.woolyventures.com.
+I'm beginning my M.Sc. at the University of Calgary this Fall, where I'll be researching the potential of ambient noise monitoring with DAS at a tailings dam to for early warning of liquefaction-type failures. 
